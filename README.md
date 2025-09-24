@@ -7,7 +7,7 @@ I lead programs at the intersection of **AI strategy, program management, and ap
 ---
 
 ## Core Capabilities
-- **AI & Agent Systems** – LLMs (Gemini, Claude, ChatGPT), Google ADK, orchestration/state management, retrieval-augmented generation (RAG), evaluation and prompt design
+- **AI & Agent Systems** – LLMs (Gemini, Claude, ChatGPT), Google ADK, Snowflake, Oracle, orchestration/state management, retrieval-augmented generation (RAG), evaluation and prompt design
 - **Program Leadership** – delivery of $1M+ programs, portfolio management (30+ projects), critical-path, dependency tracking, KPI dashboards, risk management
 - **Enterprise Engagement** – executive briefings, client strategy workshops, cross-functional leadership across engineering, research, and product teams
 - **Responsible AI & Safety** – human-feedback pipelines, HIPAA-compliant workflows, ethical compliance, reliability monitoring
