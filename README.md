@@ -23,7 +23,7 @@ I lead programs at the intersection of **AI strategy, program management, and ap
 
 ## Interests
 - LLMs and agentic workflows in production environments  
-- Scalable program and portfolio management for AI systems  
+- Scalable program and portfolio management   
 - Evaluation pipelines and responsible AI practices  
 - Translating complex data into decision-support tools  
 
