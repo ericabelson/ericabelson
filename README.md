@@ -2,7 +2,7 @@
 
 ## AI & ML Program Leadership | Technical Program Management | Agentic AI Systems
 
-I lead programs at the intersection of **AI strategy, program management, and applied research**. My work focuses on delivering LLM and agentic AI capabilities, aligning technical roadmaps with organizational goals, and ensuring safety and evaluation at scale. I bring experience as a **Chief Science Officer, Program Manager, and Research Scientist**, spanning academia, startups, and government research.
+I lead programs at the intersection of **AI strategy, program management, and applied research**. My work focuses on delivering ML, LLM, and agentic AI capabilities, aligning technical roadmaps with organizational goals, and ensuring safety and evaluation at scale. I bring experience as a **Chief Science Officer, Program Manager, and Research Scientist**, spanning academia, startups, and government research.
 
 ---
 
